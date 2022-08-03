@@ -1,0 +1,56 @@
+body{
+	background-image: url('https://th.bing.com/th/id/R.5277ec3e9928047f3118c4586730994e?rik=ok7yO%2b61WUfPhA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2fa%2ff%2f1392809-cool-simple-background-pictures-2048x1152-tablet.jpg&ehk=2N4%2fejz3jM1vvO9VNehxKdfN%2bI90SVV5%2fEpmMPMV6aA%3d&risl=&pid=ImgRaw&r=0');
+	color:#fff;
+	font-family:sans-serif;
+	font-size:14px;
+}
+
+#container{
+	width:60%;
+	margin:20px auto;
+	overflow:auto;
+	padding:25px;
+}
+
+header{
+	text-align:center;
+	border-bottom:#fff dashed 1px;
+}
+
+header h1{
+	margin:0;
+	padding:0;
+}
+
+header p{
+	padding:0;
+	margin-top:5px;
+	color: #000;
+}
+
+section{
+	min-height:400px;
+}
+
+footer{
+	text-align:center;
+}
+
+input[type='submit']{
+	background:#f06226;
+	border:0;
+	color:#fff;
+	padding:10px 15px;
+	cursor:pointer;
+}
+
+#results h3{
+	background:#f06226;
+	padding:10px;
+	margin:10px 0;
+}
+
+#results span{
+	color:#000;
+	font-weight:bold;
+}
